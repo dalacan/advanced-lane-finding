@@ -37,8 +37,8 @@ If you're feeling ambitious (again, totally optional though), don't stop there! 
 [warped_image]: ./output_images/warped_image.png "Warpped image"
 [sliding_window_histogram]: ./output_images/sliding_window_histogram.png "Sliding windows histogram"
 [sliding_window_convolution]: ./output_images/sliding_window_convolution.png "Sliding windows convolution"
-[curvature_equation1]: ./output_images/curvature_equation1.png "Curvature equation"
-[curvature_equation2]: ./output_images/curvature_equation2.png "Curvature equaation, 2nd order polynomial derived"
+[curvature_equation1]: ./output_images/curvature_equation1.PNG "Curvature equation"
+[curvature_equation2]: ./output_images/curvature_equation2.PNG "Curvature equaation, 2nd order polynomial derived"
 [straight_lines1_diagnostics]: ./output_images/straight_lines1_diagnostics.jpg "Output 1 with diagnostics"
 [test4]: ./output_images/test4.jpg "Output results"
  
