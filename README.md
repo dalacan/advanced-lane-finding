@@ -159,7 +159,8 @@ My video pipeline is process through the `advance_lane_finding_video_load.py` fi
 
 Here's a [link to my video result](./output_videos/project_video.mp4)
 
-Here's a [![link to my video result with additional data](http://img.youtube.com/vi/gWUUoAdexzs/0.jpg)](https://www.youtube.com/watch?v=gWUUoAdexzs "Advanced lane finding project video with diagnostics")
+Here's a link to my video result with a diagnostic breakdown of the lane finding [![link to my video result with a diagnostic breakdown](http://img.youtube.com/vi/gWUUoAdexzs/0.jpg)](https://www.youtube.com/watch?v=gWUUoAdexzs "Advanced lane finding project video with diagnostics")
+
 ---
 
 ### Reflections
